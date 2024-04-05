@@ -1,0 +1,43 @@
+.column {
+    width: 300px;
+    float: left;
+    column-gap: 60px;
+}
+
+.decklist {
+    border: solid black 1px;
+    background-color: lightblue;
+    column-count: 3;
+    column-gap: 15px;
+}
+
+.cardhighlight {
+    border: solid black 1px;
+    background-color: goldenrod;
+    column-count: 2;
+    column-gap: 25px;
+}
+
+.cardnametitle {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.cardnamebody {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+}
+
+.indeximages {
+    border: solid black 1px;
+    background-color: grey;
+    column-gap: 10 px;
+    align-items: center;
+}
+
+.img {
+    width: 360px;
+    max-width: 45%;
+    height: auto;
+}
