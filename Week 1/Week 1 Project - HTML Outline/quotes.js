@@ -8,6 +8,8 @@ const quotes = [
     "Some convictions are so strong that the world must break to accomodate them.",
     "In an age of war, time is measured not by sand, but by blood.",
     "The academy worked with time, until time ran out.",
+
+    "NewText",
 ]
 
 function quoteGenerator() {
